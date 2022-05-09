@@ -1,0 +1,1 @@
+pip install git+https://github.com/thomasjpfan/scikit-learn@1f977ba030135584fa1c4bff08c263d7413d5206 --no-build-isolation -v

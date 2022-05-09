@@ -1,0 +1,13 @@
+name: pandas-prototype-demo
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - Cython
+  - scipy
+  - jupyterlab
+  - threadpoolctl
+  - 
