@@ -1,0 +1,5 @@
+name: padnas-prototype-demo
+dependencies:
+  - python=3.9
+  - pandas
+  - scipy
